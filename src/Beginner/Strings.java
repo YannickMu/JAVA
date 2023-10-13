@@ -1,3 +1,5 @@
+package Beginner;
+
 public class Strings {
     public static void main(String[] args) {
         String a = "asdf";

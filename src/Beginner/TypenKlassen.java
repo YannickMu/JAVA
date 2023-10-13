@@ -1,3 +1,5 @@
+package Beginner;
+
 public class TypenKlassen {
     public static void main(String[] args){
         //int = 32 BIT = -2'147'483'648, ..., 2'147'483'647

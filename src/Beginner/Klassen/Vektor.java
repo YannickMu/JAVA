@@ -1,3 +1,5 @@
+package Beginner.Klassen;
+
 public class Vektor {
     int x;
     int y;

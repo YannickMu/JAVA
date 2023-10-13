@@ -1,3 +1,5 @@
+package Beginner;
+
 public class arrays {
     public static void main(String[] args){
         int[] array = new int[10];

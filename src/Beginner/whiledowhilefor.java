@@ -1,3 +1,5 @@
+package Beginner;
+
 public class whiledowhilefor {
     public static void main(String[] args){
         int i = 0;

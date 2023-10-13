@@ -1,3 +1,5 @@
+package Beginner.Klassen;
+
 public class Klassen {
     public static void main(String[] args) {
         Vektor v = new Vektor();
