@@ -34,7 +34,7 @@ public class switchcase {
             case 12:
                 yield "12 Dezember";
             default:
-                throw new IllegalArgumentException("Der " + inpmonat + ". ist kein Definierter Monat!");
+                throw new IllegalArgumentException("Der " + inpmonat + ". Monat ist kein Definierter Monat!");
         };
         System.out.println(monat);
     }
